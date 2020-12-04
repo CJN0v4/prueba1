@@ -1,3 +1,5 @@
+def imprime(v):
+    print(v)
 cadena = "Hola primo como estas..?"
 
-print(cadena+"ya no")
+imprime(cadena)
